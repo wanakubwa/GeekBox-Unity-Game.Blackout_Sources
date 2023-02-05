@@ -54,3 +54,5 @@ Przy tworzeniu gry zostały wykorzystane następujące technologie:
 
 ### Widok drzewa technologicznego
 <img src= "Creativities/blck_ss2.jpg.png" width = 400> 
+
+[//]: # (Dummy comment to order repositories.)
