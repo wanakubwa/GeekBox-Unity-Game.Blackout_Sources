@@ -46,7 +46,7 @@ Przy tworzeniu gry zostały wykorzystane następujące technologie:
 
 ## Przykłady z gry
 
-### Widok edytora poziomów, narzedia dla designerów
+### Widok edytora poziomów (narzędzia dla designerów)
 <img src= "Creativities/blck_editor_ss1.png" width = 400>
 
 ### Przykład rozgrywki
